@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
 <h2>Olá! meu nome é Lucas Rafael ✌️</h2>
 <br/>
 
