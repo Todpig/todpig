@@ -6,13 +6,11 @@
 
 <br/>
 
-
-
-<h3> Tecnologias que uso no meu dia 🤙</h3>
-
 ![Lucas Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=todpig&show_icons=true&theme=transparent)
 
 <br/>
+
+<h3> Tecnologias que uso no meu dia 🤙</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=todpig)](https://github.com/todpig/github-readme-stats)
 
