@@ -6,13 +6,15 @@
 
 <br/>
 
-![Lucas Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=todpig&show_icons=true&theme=dracula)
+
 
 <h3> Tecnologias que uso no meu dia 🤙</h3>
 
+![Lucas Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=todpig&show_icons=true&theme=transparent)
+
 <br/>
 
-![Lucas Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=todpig&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=todpig)](https://github.com/todpig/github-readme-stats)
 
 <div style="display: inline_block"><br/>
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
